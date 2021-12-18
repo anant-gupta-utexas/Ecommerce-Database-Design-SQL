@@ -1,6 +1,6 @@
-## Database Design for an e-commerce company
+# Database Design for an E-Commerce Company
 
-# High-Level Data Flow
+## High-Level Data Flow
 <img width="1245" alt="image" src="https://user-images.githubusercontent.com/12545194/143726577-d07480f8-d74e-4198-85cc-667d0f957868.png">
 
 # ERD
